@@ -1,9 +1,9 @@
 {
   "Ads": [
     {
-      "admob_inters": "ca-app-pub-5312741313348090/8536463507",
-      "admob_banner": "ca-app-pub-1719938306724013/5770611041",
-      "admob_open": "ca-app-pub-5312741313348090/3156055993",
+      "admob_inters": "0",
+      "admob_banner": "0",
+      "admob_open": "0",
       "inter_repeat": 600000,
       "redirect": 0,
       "link_baru": "https://play.google.com/store/apps/details?id=com.kue.streetfightpsp"
