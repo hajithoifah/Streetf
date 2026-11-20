@@ -4,7 +4,7 @@
       "admob_inters": "ca-app-pub-4036905173794686/6953849091",
       "admob_banner": "ca-app-pub-4036905173794686/9580012435",
       "admob_open": "ca-app-pub-4036905173794686/5167279654",
-      "inter_repeat": 600000,
+      "inter_repeat": 300000,
       "redirect": 0,
       "link_baru": "https://play.google.com/store/apps/details?id=com.gabgame.DuckSwimJourney"
     }
